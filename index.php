@@ -1,4 +1,3 @@
-//Ejercicio 2
 $num=50;
 while($num<80){
     echo $num=$num+2 . " ";
